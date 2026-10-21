@@ -1,0 +1,23 @@
+# Data Science Fundamentals Assessment
+
+## Overview
+This project demonstrates fundamental data science concepts using Python, statistics, data analysis, and visualization.
+
+## Topics Covered
+- Python basics, variables, and data types
+- Lists, tuples, sets, and dictionaries
+- Descriptive statistics
+- Probability and correlation
+- Data analysis using Pandas and NumPy
+- Data cleaning and preprocessing
+- Data visualization using Matplotlib
+
+## Tools Used
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+
+## Objective
+To demonstrate an understanding of data science fundamentals and apply Python programming and statistical techniques to analyze data.
